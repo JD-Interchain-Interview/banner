@@ -5,7 +5,7 @@
   
   <br/>
   <p> Marketing Design </p>
-  <h3> Banner Images Assets </h3>
+  <h3> Banner Image Assets </h3>
   <p> Design — By Jessica Dosseh </p>
   <br/>
 </div>
